@@ -1,0 +1,155 @@
+ 
+32
+ 
+ 
+                      
+Room r1=new Room();
+ 
+                      
+R1.getdata(20,10);
+ 
+                    
+area=r1.length*r1.breadth;
+ 
+                    
+
+ 
+            
+}
+ 
+}  
+ 
+ 
+Output:
+-
+ 
+Area=200.0
+ 
+ 
+6.
+ 
+Algorithm
+: 
+ 
+ 
+1.
+ 
+Start.
+ 
+2.
+ 
+Declare a class named Circle.
+ 
+3.
+ 
+Initialize the required variables.
+ 
+4.
+ 
+Declare a method getdata() and get value of radius from main function as a 
+parameter.
+ 
+5.
+ 
+Declare a method area to calculate the area of circle and display the result.
+ 
+6.
+ 
+Declare main() and create object of class Circle. And access the methods with 
+the help of object.
+ 
+7.
+ 
+Display the area.
+ 
+8.
+ 
+Stop. 
+ 
+ 
+7.
+ 
+Conclusion:
+ 
+After performing this experiment we are able to 
+create a 
+class and object
+. The 
+classes 
+are interacting with each other by accessing the methods and members
+ 
+of class 
+using different objects.
+ 
+ 
+8.
+ 
+Viva Questions: 
+ 
+
+ 
+What is 
+class and 
+object?
+ 
+How to access class using object?
+ 
+
+ 
+How two objects communicate?
+ 
+ 
+9.
+ 
+ 
+References:
+ 
+ 
+
+ 
+
+Java Programing From the Group Up
+
+McGraw
+-
+Hill
+ 
+
+ 
+Grady Booch, Object Oriented Analysis and Design 
+ 
+
+ 
+
+An
+ 
+introduction to Programming and Object 
+Oriented Design using Java
+
+Electronics 
+Communication Systems
+
+ 
+
+ 
+Java 2, 
+
+
+ 
+ 
+33
+ 
+ 
+ 
+ 
+OOPM JAVA LAB
+ 
+Experiment No. : 5
+ 
+Passing and 
+Returning object as an 
+Argument
+ 
+ 
+ 
+ 
