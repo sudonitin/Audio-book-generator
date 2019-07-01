@@ -1,4 +1,141 @@
  
+31
+ 
+ 
+Experiment No.4
+ 
+1.
+ 
+Aim:
+ 
+Write a program to create a Rectangle class, objects, and implement method 
+to 
+calculate area of rectangle.
+ 
+ 
+2.
+ 
+Objectives: 
+From this experiment, the student will be able to 
+ 
+
+ 
+Understand basics of Object Oriented programming
+ 
+
+ 
+To solve the real world scenarios using top down approach. 
+ 
+ 
+3.
+ 
+Outcomes: 
+The learner will be able to
+ 
+ 
+
+ 
+Understand 
+how to model the real world scenario using class
+es and object.
+ 
+ 
+
+ 
+Exhibit comm
+unication between objects of different classes.
+ 
+4.
+ 
+Hardware / Software Required :
+ 
+Ubuntu, Java
+ 
+ 
+5.
+ 
+Theory:  
+ 
+Objects are the basic runtime entities in an object oriented system. A class 
+may be 
+
+code of the class are accessed by object of that class.
+ 
+ 
+In this program, the object of class circle is used to access the methods: 
+getdata() & 
+area() of this cl
+ass.
+ 
+Syntax:
+-
+     
+ 
+         
+class Class_Name
+ 
+               
+{
+ 
+                    
+public static void main(String args[]) 
+ 
+                     
+{
+ 
+                                  
+// Statements;
+ 
+                      
+}
+ 
+               
+}
+ 
+ 
+     
+ 
+For example:
+-
+ 
+ 
+class Room
+ 
+               
+{
+ 
+                   
+float length;
+ 
+                    
+float breadth;
+ 
+                    
+void getdata(float a, float b)
+ 
+                    
+{
+ 
+                        
+length=a;
+ 
+                        
+breadth=b;
+ 
+                 
+  
+}
+ 
+                  
+public static void main(String args[])
+ 
+                  
+{
+ 
+                     
+float area;
+ 
+ 
 32
  
  
