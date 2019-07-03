@@ -7,3 +7,6 @@ Too lazy to read a novel? Get an Ebook version of the novel and run the ebook_re
 
 An example of each of the script is shown, the text from spoken text.PNG was delivered by me, observe the s2txt.txt it is the o/p (accurate to a great extent if you have a decent accent)
 Listen to the read.mp3 and observe the page numbers which are spoken from the pdf file. (eg of ebook reader) 
+
+<h3>Requirements:</h3>
+pip install requirements.txt
