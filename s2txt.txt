@@ -2,3 +2,5 @@
 1 create a new repository on GitHub 2 open terminal GIT Bash 3 change the current working directory to your local project for initialise the local directory as a GIT repository
 m e s o m e
 AC
+you how are you I am fine
+hi I am robot

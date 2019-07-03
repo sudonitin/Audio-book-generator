@@ -1,1 +1,5 @@
-SpeechRecognition==3.8.1
+SpeechRecognition==3.6.3
+PyAudio==0.2.11
+PyPDF2==1.26.0
+gTTS==2.0.1
+urllib3==1.24.1
