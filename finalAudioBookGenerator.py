@@ -1,7 +1,8 @@
 import os
 import tempfile
 from pdf2image import convert_from_path
- 
+import warnings
+warnings.simplefilter('ignore') 
 filename = 'test.pdf'
  
 with tempfile.TemporaryDirectory() as path:

@@ -1,0 +1,13 @@
+1. Create a new repository on GitHub.
+2. Open TerminaiTerminalGit Bash.
+
+3. Change the current working directory to your local project.
+4. Initalize the local directory as a Git repository. ...
+
+5. Add the files in your new local repository....
+
+6. Commit the files that you've staged in your local repository.
+
+ 
+
+More items
