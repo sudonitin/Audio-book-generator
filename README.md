@@ -31,7 +31,7 @@ __NOTE: You need to complete the steps mentioned in Prerequisite.__
 Run these commands in cmd/terminal of a directory
 
 ```git
-git clone https://github.com/globefire/speech-recognition-Ebook-Reader.git
+git clone https://github.com/globefire/Audio-book-generator.git
 cd speech-recognition-Ebook-Reader
 pip install -r requirements.txt
 python speechtotext.py
