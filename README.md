@@ -10,21 +10,26 @@ Listen to the **read.mp3** and observe the page numbers which are spoken from th
 
 ### Prerequisite
 
-**For Windows Users***
+**For Windows Users**
 - Install tesseract from [here](https://github.com/UB-Mannheim/tesseract/wiki).
 - Add tesseract to your environment variable. (Add this path C:\Program Files (x86)\Tesseract-OCR)
 - Type 'tesseract' in cmd you wil get a lot of options like this. 
 - (**_Optional:_ This step should be done only if you get an error which gives the below error** )Add a new variable in environment variable **TESSDATA_PREFIX** and give it _C:\Program Files (x86)\Tesseract-OCR\tessdata_ this value.
+
 ```
 Please make sure the TESSDATA_PREFIX environment variable is set to the parent directory of your "tessdata" directory.
 ```
 
 **For Linux Users**
+- Install tesseract. [link](https://www.youtube.com/watch?v=CSpNDgOPJiM)
+- You might face an error(about pyaudio) while _pip installing requirements.txt_ refer [this](https://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error).
 
 
-<h3>How to run:</h3>
-Run these commands in cmd/terminal of a directory.<br>
-**NOTE: You need to complete the steps mentioned in Prerequisite**
+### How to run:
+__NOTE: You need to complete the steps mentioned in Prerequisite.__
+
+Run these commands in cmd/terminal of a directory
+
 ```git
 git clone https://github.com/globefire/speech-recognition-Ebook-Reader.git
 cd speech-recognition-Ebook-Reader
