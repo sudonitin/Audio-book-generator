@@ -46,4 +46,4 @@ python finalAudioBookGenerator.py
 - [X] use tesseract to extract text from files. (@globefire)
 
 ### Watch the demonstration
-- [ ] [Press Me :)](https://youtu.be/xhMvGg1dAsg)
+- [Press Me :)](https://youtu.be/xhMvGg1dAsg)
