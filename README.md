@@ -43,7 +43,5 @@ python finalAudioBookGenerator.py
 ### Features to add:
 - [ ] Web Interface (It allows user to upload a pdf file and provide a audio file for the same). (@sladyn98)
 
-- [X] use tesseract to extract text from files. (@globefire)
-
 ### Watch the demonstration
 - [Press Me :)](https://youtu.be/xhMvGg1dAsg)
