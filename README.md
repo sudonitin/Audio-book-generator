@@ -23,6 +23,7 @@ Please make sure the TESSDATA_PREFIX environment variable is set to the parent d
 ```
 
 **For Linux Users**
+
 Refer this [repo](https://github.com/sladyn98/AudioBookGenarator-CLI) It is a CLI of this project developed by @sladyn98. 
 
 ### How to run:
