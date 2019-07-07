@@ -23,9 +23,7 @@ Please make sure the TESSDATA_PREFIX environment variable is set to the parent d
 ```
 
 **For Linux Users**
-- Install tesseract. [link](https://www.youtube.com/watch?v=CSpNDgOPJiM)
-- You might face an error(related to pyaudio) while _pip installing requirements.txt_ refer [this](https://stackoverflow.com/questions/20023131/cannot-install-pyaudio-gcc-error).
-
+Refer this [repo](https://github.com/sladyn98/AudioBookGenarator-CLI) It is a CLI of this project developed by @sladyn98. 
 
 ### How to run:
 __NOTE: You need to complete the steps mentioned in Prerequisite.__
