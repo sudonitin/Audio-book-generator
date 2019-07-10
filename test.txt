@@ -1,13 +1,59 @@
-1. Create a new repository on GitHub.
-2. Open TerminaiTerminalGit Bash.
+D Y PATIL
 
-3. Change the current working directory to your local project.
-4. Initalize the local directory as a Git repository. ...
+RAMRAO ADIK
+INSTITUTE OF
 
-5. Add the files in your new local repository....
+TECHNOLOGY
 
-6. Commit the files that you've staged in your local repository.
+NAVI MUMBAI
 
  
 
-More items
+PCA Cea " mp a
+«Department of Computer Engineering
+
+4 Lab Manual
+
+Second Year Semester-III
+
+Subject: OOPM JAVA LABInstitutional Vision, Mission and Quality Policy
+
+Our Vision
+
+To foster and permeate higher and quality education with value added engineering, technology
+programs, providing all facilities in terms of technology and platforms for all round development with
+societal awareness and nurture the youth with international competencies and exemplary level of
+employability even under highly competitive environment so that they are innovative adaptable and
+capable of handling problems faced by our country and world at large.
+
+RAIT's firm belief in new form of engineering education that lays equal stress on academics and
+leadership building extracurricular skills has been a major contribution to the success of RAIT as one
+of the most reputed institution of higher learning. The challenges faced by our country and world in
+the 21 Century needs a whole new range of thought and action leaders, which a conventional
+educational system in engineering disciplines are ill equipped to produce. Our reputation in providing
+good engineering education with additional life skills ensure that high grade and highly motivated
+students join us. Our laboratories and practical sessions reflect the latest that is being followed in the
+Industry. The project works and summer projects make our students adept at handling the real life
+problems and be Industry ready. Our students are well placed in the Industry and their performance
+makes reputed companies visit us with renewed demands and vigour.
+
+Our Mission
+
+The Institution is committed to mobilize the resources and equip itself with men and materials of
+excellence thereby ensuring that the Institution becomes pivotal center of service to Industry,
+academia, and society with the latest technology. RAIT engages different platforms such as
+technology enhancing Student Technical Societies, Cultural platforms, Sports excellence centers,
+Entreprencurial Development Center and Societal Interaction Cell. To develop the college to become
+an autonomous Institution & deemed university at the earliest with facilities for advanced research
+and development programs on par with international standards. To invite international and reputed
+national Institutions and Universities to collaborate with our institution on the issues of common
+interest of teaching and learning sophistication.
+
+RAIT's Mission is to produce engineering and technology professionals who are innovative and
+inspiring thought leaders, adept at solving problems faced by our nation and world by providing
+quality education.
+
+The Institute is working closely with all stake holders like industry, academia to foster knowledge
+generation, acquisition, dissemination using best available resources to address the great challenges
+being faced by our country and World. RAIT is fully dedicated to provide its students skills that make
+them leaders and solution providers and are Industry ready when they graduate from the Institution.

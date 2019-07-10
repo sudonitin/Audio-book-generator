@@ -6,11 +6,11 @@ warnings.simplefilter('ignore')
 filename = 'test.pdf'
  
 with tempfile.TemporaryDirectory() as path:
-     images_from_path = convert_from_path(filename, output_folder='F:/python projects cv tts stt/speechrecog', last_page=2, first_page =0)
+     images_from_path = convert_from_path(filename, output_folder='F:/pythonProjects/Audio-book-generator/auxillary', last_page=2, first_page =0)
  
 base_filename  =  os.path.splitext(os.path.basename(filename))[0] + '.JPG'     
  
-save_dir = 'F:/python projects cv tts stt/speechrecog'
+save_dir = 'F:/pythonProjects/Audio-book-generator/auxillary'
 i=1
 
 ######Tesseract code is here#########
@@ -26,7 +26,7 @@ for page in images_from_path:
     name = os.path.splitext(os.path.basename(filename))[0] + str(i) +'.JPG'
     page.save(os.path.join(save_dir, name), 'JPEG')
     i+=1
-    file.write(pytesseract.image_to_string(Image.open(name)))
+    file.write(pytesseract.image_to_string(Image.open(os.path.join(save_dir, name))))
 
 
 file.close()
