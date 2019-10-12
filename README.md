@@ -44,5 +44,6 @@ python finalAudioBookGenerator.py
 - [Press Me :)](https://youtu.be/xhMvGg1dAsg)
 
 
-### If you liked this Repository, then please leave a star on this repository so that I can know you liked this project. It motivates me to contribute more in such Open Source projects in the future. 
+### Support Me
+If you liked this Repository, then please leave a star on this repository. It motivates me to contribute more in such Open Source projects in the future.
 ### Happy Coding =)
