@@ -23,8 +23,8 @@ Please make sure the TESSDATA_PREFIX environment variable is set to the parent d
 ```
 
 **For Linux Users**
-
-Refer this [https://github.com/sladyn98/AudioBookGenarator-CLI](https://github.com/sladyn98/AudioBookGenarator-CLI) It is a CLI of this project developed by @sladyn98. 
+- Install Tesseract with this [tutorial](https://www.linux.com/tutorials/using-tesseract-ubuntu/). After installation jump to how to run.
+- Refer this [https://github.com/sladyn98/AudioBookGenarator-CLI](https://github.com/sladyn98/AudioBookGenarator-CLI) It is a CLI of this project developed by @sladyn98. 
 
 ### How to run:
 __NOTE: You need to complete the steps mentioned in Prerequisite.__
